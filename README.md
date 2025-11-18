@@ -33,6 +33,9 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 
 ---
+## DIAGRAM:
+<img width="804" height="1280" alt="image" src="https://github.com/user-attachments/assets/79c8e7fd-7b67-4d83-bbc6-5c56de9a8b0b" />
+
 
 ## 🧪 PROCEDURE
 
@@ -51,13 +54,19 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 
 ## 📊 OBSERVATION AND CALCULATION
-
-- 
+<img width="1280" height="527" alt="image" src="https://github.com/user-attachments/assets/5da5590d-ad23-47e9-8e08-c30d08cae62b" />
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
+
+
 ## Tabulation
+
+<img width="1280" height="906" alt="image" src="https://github.com/user-attachments/assets/c770648c-5811-4b93-989e-b202a90ca7ad" />
+
+- 
 ## Result
+The modes of given optical fiber were determined sucessfully. The observed output pattern confirmed the tiber and matching the theoretical predictions.
